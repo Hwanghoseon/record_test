@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "565756674657",
+    "firebase_url": "https://android-newsky.firebaseio.com",
+    "project_id": "android-newsky",
+    "storage_bucket": "android-newsky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565756674657:android:1564d310bccd3346642020",
+        "android_client_info": {
+          "package_name": "com.example.android_newsky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565756674657-8f8sdl273u1cat1qu08g9g19ag63d2l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android_newsky",
+            "certificate_hash": "460c9f9cb29632e1a080ed383ef1c8c700dbd40a"
+          }
+        },
+        {
+          "client_id": "565756674657-aa2dlajilnjo7his82nnuqbschl0756j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV8ApwldX5uU_dio4qqYaFLKDLXN8QZSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565756674657-aa2dlajilnjo7his82nnuqbschl0756j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
