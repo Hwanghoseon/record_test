@@ -101,7 +101,7 @@
                 android:layout_toLeftOf="@+id/text_change"
                 android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp"
-                android:text="다시"
+                android:text="목록"
                 android:onClick="onButton3Clicked"
                 />
 
